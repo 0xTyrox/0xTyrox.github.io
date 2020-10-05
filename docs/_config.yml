@@ -28,7 +28,7 @@ twitter_username: 0xTyrox
 github_username:  0xTyrox
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
 #  - jekyll-feed
 
