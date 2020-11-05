@@ -1,0 +1,8 @@
+---
+layout: post
+title:  New URL
+date:   2020-11-05 15:00:00 +0200
+#categories: ctf write-up
+---
+
+This blog has been moved to https://tyrox.blog
